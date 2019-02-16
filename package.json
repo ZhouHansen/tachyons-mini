@@ -1,0 +1,14 @@
+{
+  "name": "tachyons-mini",
+  "version": "4.11.1",
+  "description": "tachyons for wechat mini program",
+  "main": "tachyons.min.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "zhouhancheng (z308114274@gmail.com)",
+  "license": "MIT"
+}
